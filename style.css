@@ -57,12 +57,13 @@ h1 { font-size: 24pt }
 h2 { font-size: 16pt }
 body { line-height: 1.6}
 
-blockquote { margin: 0 24pt 0 24pt }
+blockquote, #blurb { margin: 0 24pt 0 24pt }
 
 @font-face
 { font-family: myfont; src: url(EBGaramond-VariableFont_wght.ttf) }
 html { font-family: Georgia }
-#header { display: flex; flex-direction: column }
+#links, #header { display: flex; flex-direction: column }
+#header { gap: 1rem }
 body
 	{ display: grid
 	; grid-template-columns: 1fr 1.6fr

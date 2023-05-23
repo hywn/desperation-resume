@@ -1,15 +1,17 @@
 # James Huang
-* [hywn.github.io](https://hywn.github.io/)
-* [jh7qbe@virginia.edu](mailto:jh7qbe@virginia.edu)
+* [hywn.github.io](https://hywn.github.io/) (personal website)
+* [jh7qbe@virginia.edu](mailto:jh7qbe@virginia.edu) (email)
+
+* A new university graduate passionate about doing more with less. Enthusiastic about programming, language, mathematics, and other forms of abstraction. More than fifty-odd personal projects and counting!
 
 ## Education
 * BS in Computer Science <2019 - 2023>
 	- From University of Virginia's School of Engineering and Applied Science. _Relevant coursework: Programming Languages, Compilers, Software Analysis, Computer Graphics, Artificial Intelligence, Machine Learning for Natural Language Processing, Cryptocurrency_
 
 ## Experience
-* Undergraduate Research Assistant { Haskell, Rust } <2022>
-	- Developed an autograding tool that uses static analysis techniques and symbolic execution to analyze the correctness of student program submissions based on program abstract syntax tree.
-* [Computer Graphics TA](https://web.archive.org/web/20220110035819/https://www.cs.virginia.edu/luther/4810/F2021/) { Python, Java } <2021>
+* Undergraduate Research Assistant (U. of Virginia) { Haskell, Rust } <2022>
+	- Used static analysis and symbolic execution techniques to develop an autograding tool that analyzes the correctness of student program submissions based on their abstract syntax trees.
+* [Computer Graphics TA](https://web.archive.org/web/20220110035819/https://www.cs.virginia.edu/luther/4810/F2021/) (U. of Virginia) { Python, Java } <2021>
 	- Graded assignments and held office hours helping students with various graphics-related assignments including a 2D rasterizer, 3D rasterizer, and raytracer.
 * Capital One Software Engineering Summit <2020>
 	- Attended summer program hosted by Capital One with "technical and soft-skill training sessions" including mobile app development and database API utilization.
@@ -35,14 +37,18 @@
 	- Tool that generates blocked schedules from markup language, or from class codes using scraped course data.
 
 ## Tech
-	- JavaScript, Java, Python, Haskell, C, OCaml, HTML/CSS, Ruby, x86 Assembly, Deno, Node.js, SQL, *nix, Git, Make, Maven, Gcov/Lcov, Web Scraping, Data Structures, Algorithms, Functional Programming, Microsoft Office, Wolfram Mathematica, Autodesk Inventor, cowsay
+* _Skilled_
+	- JavaScript (Web APIs, Deno, Node.js), Java, Python, Haskell, C, HTML/CSS, Ruby, *nix
+* _Experienced_
+	- Git, OCaml, SQL
+* _Proficient_
+	- Make, Maven, Gcov/Lcov, x86 Assembly, Microsoft Office, Wolfram Mathematica, Autodesk Inventor, cowsay
 
 ## Extracurricular
+* CyberPatriot <2018 - 2019>
+	- Did *nix-related work for school's cybersecurity team (accomplished gold tier in CyberPatriot XI's open division)
 * Calligraphy Club <2022 - 2023>
 	- Co-founded club promoting awareness of East-Asian brush calligraphy. Held meetings twice a week. Tabled at cultural events hosted by Chinese Student Association and University Programs Council.
 
-* CyberPatriot <2018 - 2019>
-	- Did *nix-related work for school's cybersecurity team (accomplished gold tier in CyberPatriot XI's open division)
-
-## Other
+## Languages, Other
 	- English (native), Korean (intermediate), Spanish (beginner), recorded sound for short film, Classical Chinese enthusiast
