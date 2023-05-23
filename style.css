@@ -57,7 +57,7 @@ h1 { font-size: 24pt }
 h2 { font-size: 16pt }
 body { line-height: 1.6}
 
-blockquote, #blurb { margin: 0 24pt 0 24pt }
+blockquote { margin: 0 24pt 0 24pt }
 
 @font-face
 { font-family: myfont; src: url(EBGaramond-VariableFont_wght.ttf) }

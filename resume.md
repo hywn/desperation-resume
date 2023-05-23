@@ -37,7 +37,7 @@
 	- Tool that generates blocked schedules from markup language, or from class codes using scraped course data.
 
 ## Tech
-* _Skilled_
+* _Seasoned_
 	- JavaScript (Web APIs, Deno, Node.js), Java, Python, Haskell, C, HTML/CSS, Ruby, *nix
 * _Experienced_
 	- Git, OCaml, SQL
@@ -46,7 +46,7 @@
 
 ## Extracurricular
 * CyberPatriot <2018 - 2019>
-	- Did *nix-related work for school's cybersecurity team (accomplished gold tier in CyberPatriot XI's open division)
+	- Accomplished gold tier in CyberPatriot XI's open division performing *nix-related work for school's cybersecurity team.
 * Calligraphy Club <2022 - 2023>
 	- Co-founded club promoting awareness of East-Asian brush calligraphy. Held meetings twice a week. Tabled at cultural events hosted by Chinese Student Association and University Programs Council.
 
