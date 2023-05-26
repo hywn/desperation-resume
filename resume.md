@@ -6,7 +6,7 @@
 
 ## Education
 * BS in Computer Science <2019 - 2023>
-	- From University of Virginia's School of Engineering and Applied Science. _Relevant coursework: Programming Languages, Compilers, Software Analysis, Computer Graphics, Artificial Intelligence, Machine Learning for Natural Language Processing, Cryptocurrency_
+	- Graduated with high distinction from University of Virginia's School of Engineering and Applied Science. _Relevant coursework: Programming Languages, Compilers, Software Analysis, Computer Graphics, Artificial Intelligence, Machine Learning for Natural Language Processing, Cryptocurrency_
 
 ## Experience
 * Undergraduate Research Assistant (U. of Virginia) { Haskell, Rust } <2022>
