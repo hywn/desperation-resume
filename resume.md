@@ -1,6 +1,7 @@
 # James Huang
-* [hywn.github.io](https://hywn.github.io/) (personal website)
 * [jh7qbe@virginia.edu](mailto:jh7qbe@virginia.edu) (email)
+* [(540) 391-1075](tel:5403911075) (phone)
+* [hywn.github.io](https://hywn.github.io/) (personal website)
 
 * A new university graduate passionate about doing more with less. Enthusiastic about programming, language, mathematics, and other forms of abstraction. More than fifty-odd personal projects and counting!
 
