@@ -41,7 +41,7 @@
 * _Seasoned_
 	- JavaScript (Web APIs, Deno, Node.js), Java, Python, Haskell, C, HTML/CSS, *nix
 * _Experienced_
-	- Rust, Ruby, Git, OCaml, SQL
+	- Rust, Ruby, Git, OCaml, SQL, PHP
 * _Proficient_
 	- Make, Maven, Gcov/Lcov, x86 Assembly, Microsoft Office, Wolfram Mathematica, Autodesk Inventor, cowsay
 
